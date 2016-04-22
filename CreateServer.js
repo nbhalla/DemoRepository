@@ -1,7 +1,7 @@
 // include the http module
 var http = require('http');
 
-var x = 35;
+var x = "abc";
 
 // create a webserver
 http.createServer(function (req, res) {
